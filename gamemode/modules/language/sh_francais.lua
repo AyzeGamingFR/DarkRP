@@ -66,11 +66,11 @@ local my_language = {
 
     payday_message = "Jour de paie, vous avez reçu %s!",
     payday_unemployed = "Vous n'avez pas reçu de salaire car vous n'avez pas de travail !",
-    payday_missed = "Pay day missed! (You're Arrested)",
+    payday_missed = "Jour de paie manqué ! ( vous êtes arrétté )",
 
-    property_tax = "Property tax! %s",
-    property_tax_cant_afford = "You couldn't pay the taxes! Your property has been taken away from you!",
-    taxday = "Tax Day! %s%% of your income was taken!",
+    property_tax = "Taxe de propriété ! %s",
+    property_tax_cant_afford = "Vous ne pouvez pas payer les taxes ! Votre bien vous à été retiré !",
+    taxday = "Jour de taxe ! %s%% de vos revenus ont étés prélevés !",
 
     found_cheque = "You have found %s%s in a cheque made out to you from %s.",
     cheque_details = "This cheque is made out to %s.",
