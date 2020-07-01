@@ -1,9 +1,14 @@
 --[[-----------------------------------------------------------------------
-English (example) language file
+Fichier de langue Francais
 ---------------------------------------------------------------------------
-This is the english language file. The things on the left side of the equals sign are the things you should leave alone
-The parts between the quotes are the parts you should translate. You can also copy this file and create a new language.
+Ce fichier est le fichier en Francais.
+Les chôses sur le côté gauche du signe égal sont les choses que vous devez laisser seules.
+
+Les parties entre guillements sont les parties que vous devez traduire.
+Vous pouvez également copier ce fichier et créer une nouvelle langue.
+
 = Warning =
+
 Sometimes when DarkRP is updated, new phrases are added.
 If you don't translate these phrases to your language, it will use the English sentence.
 To fix this, join your server, open your console and enter darkp_getphrases yourlanguage
