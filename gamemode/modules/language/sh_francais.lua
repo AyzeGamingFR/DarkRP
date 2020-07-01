@@ -7,19 +7,29 @@ Les chôses sur le côté gauche du signe égal sont les choses que vous devez l
 Les parties entre guillements sont les parties que vous devez traduire.
 Vous pouvez également copier ce fichier et créer une nouvelle langue.
 
-= Warning =
+= Avertissement =
 
-Sometimes when DarkRP is updated, new phrases are added.
-If you don't translate these phrases to your language, it will use the English sentence.
-To fix this, join your server, open your console and enter darkp_getphrases yourlanguage
-For English the command would be:
+Parfois lorsque DarkRP est mis à jour, de nouvelles phrases sont ajoutées.
+Si vous ne traduisez pas ces phrases dans votre langue, il utilisera la phrase Anglaise.
+Pour résoudre ce problème, rejoignez votre serveur, ouvrez votre console et entrez darkrp_getphrases "votre_langue".
+
+En Anglais la commande serait :
+    
     darkrp_getphrases "en"
-because "en" is the language code for English.
-You can copy the missing phrases to this file and translate them.
-= Note =
-Make sure the language code is right at the bottom of this file
-= Using a language =
-Make sure the convar gmod_language is set to your language code. You can do that in a server CFG file.
+    
+    
+Parce que "en" est le code de langue pour l'Anglais.
+Vous pouvez copier les phrases manquantes dans ce fichier et les traduire.
+
+= Remarque =
+
+Assurez vous que le code de langue est juste au bas de ce fichier.
+
+
+= Utiliser un language =
+
+Assurez vous que le convar gmod_language est défini sur votre code de langue.
+Vous pouvez le faire dans un fichier CFG du serveur.
 ---------------------------------------------------------------------------]]
 
 local my_language = {
