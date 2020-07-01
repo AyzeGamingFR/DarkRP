@@ -34,38 +34,38 @@ Vous pouvez le faire dans un fichier CFG du serveur.
 
 local my_language = {
     -- Admin things
-    need_admin = "You need admin privileges in order to be able to %s",
-    need_sadmin = "You need super admin privileges in order to be able to %s",
-    no_privilege = "You don't have the right privileges to perform this action",
-    no_jail_pos = "No jail position",
-    invalid_x = "Invalid %s! %s",
+    need_admin = "Vous avez besoin des privilèges d'administrateur pour pouvoir %s",
+    need_sadmin = "Vous avez besoin des privilèges de super administrateur pour pouvoir %s",
+    no_privilege = "Vous n'avez pas les privilèges nécessaires pour effectuer cette action",
+    no_jail_pos = "Pas de position de prison",
+    invalid_x = "Invalide %s! %s",
 
     -- F1 menu
-    f1ChatCommandTitle = "Chat commands",
-    f1Search = "Search...",
+    f1ChatCommandTitle = "Commandes de chat",
+    f1Search = "Recherche...",
 
     -- Money things:
-    price = "Price: %s%d",
-    priceTag = "Price: %s",
-    reset_money = "%s has reset all players' money!",
-    has_given = "%s has given you %s",
-    you_gave = "You gave %s %s",
-    npc_killpay = "%s for killing an NPC!",
+    price = "Prix : %s%d",
+    priceTag = "Prix : %s",
+    reset_money = "%s à réinitialisé l'argent de tous les joueurs !",
+    has_given = "%s vous à donné %s",
+    you_gave = "Vous avez donné %s %s",
+    npc_killpay = "%s pour avoir tué un PNJ!",
     profit = "profit",
-    loss = "loss",
-    Donate = "Donate",
-    you_donated = "You have donated %s to %s!",
-    has_donated = "%s has donated %s!",
+    loss = "perte",
+    Donate = "Faire un don",
+    you_donated = "Vous avez donné %s à %s!",
+    has_donated = "%s à donné %s!",
 
     -- backwards compatibility
-    deducted_x = "Deducted %s%d",
-    need_x = "Need %s%d",
+    deducted_x = "Déduit %s%d",
+    need_x = "Besoin de %s%d",
 
-    deducted_money = "Deducted %s",
-    need_money = "Need %s",
+    deducted_money = "Déduit %s",
+    need_money = "Besoin de %s",
 
-    payday_message = "Payday! You received %s!",
-    payday_unemployed = "You received no salary because you are unemployed!",
+    payday_message = "Jour de paie, vous avez reçu %s!",
+    payday_unemployed = "Vous n'avez pas reçu de salaire car vous n'avez pas de travail !",
     payday_missed = "Pay day missed! (You're Arrested)",
 
     property_tax = "Property tax! %s",
